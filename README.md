@@ -2,15 +2,11 @@
 Lars Lerchbacher
 ---
 
-Hi! I'm Lars, a hobby programmer and student at a higher technical college.
+![Name: Lars](https://img.shields.io/badge/Name-Lars-green)
+![Job: Student](https://img.shields.io/badge/Job-Student-orange)
+![Company: HTL Leoben](https://img.shields.io/badge/Company-HTL_Leoben-blue)
+[![Website: here](https://img.shields.io/badge/Website-here-black)](https://larslerchbacher.github.io/Website)
 
-I hope that my projects will be useful for anybody at some time.
-
-
-GPG Keys
----
-
-I'll try to keep all my used GPG public keys in the KEYS.md file in this repo.
-If one is missing, but shown as verified, please contact me, so I can add the missing key (I tend to forget stuff).
+My GPG Keys can be found in the KEYS.md file of my profile repo
 
 
